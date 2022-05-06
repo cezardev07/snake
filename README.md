@@ -1,2 +1,2 @@
-# snake
-Pagina web e Gamer Snaker, HTML5 CCS3 JS
+# <> Gamer Snaker </>
+Gamer Snake feito com HTML5 CSS3 JS
